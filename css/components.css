@@ -60,3 +60,32 @@
     transform: translateY(-5px);
     box-shadow: 0 8px 14px rgba(0,0,0,0.15);
 }
+nav {
+    background-color: #980000;
+    color: white;
+    padding: 15px 30px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hero {
+    background-color: #eee;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.card {
+    border: 1px solid #ccc;
+    padding: 15px;
+    width: 30%;
+    border-radius: 10px;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 10px;
+}
